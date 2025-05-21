@@ -12,17 +12,16 @@
 ```java
 const Naveen = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
+    code: ["##Java" "Javascript"],
+    askMeAbout: ["JAVA dev", "Wordpress dev", "app dev","Backend dev",],
     technologies: {
-       mobileApp: ["Android App"],
-       backEnd: {
+      backEnd: {
             java: ["spring","hibernate"],
         },
-        databases: ["mongo", "MySql",],
+        databases: ["MySql", "ORACLE", "mongo"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["microservices", "event-driven", "API REST"],
+    architecture: ["microservices", "API REST"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -30,4 +29,4 @@ const Naveen = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-⭐️ From [naveenverma1](https://github.com/naveenverma1)
+⭐️ From [Dev-IMartin](https://github.com/Dev-IMartin)
