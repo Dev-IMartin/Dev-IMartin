@@ -19,7 +19,6 @@ const Naveen = {
             java: ["spring","hibernate"],
         },
         databases: ["MySql", "ORACLE", "mongo"],
-        misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["microservices", "API REST"],
     funFact: "There are two ways to write error-free programs; only the third one works"
