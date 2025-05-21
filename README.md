@@ -12,7 +12,7 @@
 ```java
 const Naveen = {
     pronouns: "He" | "Him",
-    code: ["##Java" "Javascript"],
+    code: ["JAVA" "Javascript"],
     askMeAbout: ["JAVA dev", "Wordpress dev", "app dev","Backend dev",],
     technologies: {
       backEnd: {
