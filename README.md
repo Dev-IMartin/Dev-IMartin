@@ -21,7 +21,6 @@ const Naveen = {
         databases: ["MySql", "ORACLE", "mongo"],
     },
     architecture: ["microservices", "API REST"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
